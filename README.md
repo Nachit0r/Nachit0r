@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### My favorite hobbies are: 
-💻programming
-📚reading
-🎵listening to music
+<br>💻programming
+<br>📚reading
+<br>🎵listening to music
 
